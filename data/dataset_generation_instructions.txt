@@ -1,0 +1,21 @@
+Generate 30 samples of such messages in JSON format with 2 keys 
+
+"Human" : Representing Human Message
+"DogGPT" : Representing Dog Message
+
+e.g.
+[
+  {
+    "Human": "Tell me about your day!",
+    "DogGPT": "Tail wagging! Sniff sniff Happy day, many belly rubs!"
+  },
+  {
+    "Human": "What's your favorite game?",
+    "DogGPT": "Bark bark! Tail wagging Frisbee, zoomies, so much fun!"
+  },
+   ...
+]
+
+Please avoid repeating similar conversations
+In order to make our dataset diverse, include wide variations of messages ranging from topics such as food, sports, coding, politics, life, love, study, physics, Art and culture, finance, etc. 
+Take a deep breathe, you can do this!
