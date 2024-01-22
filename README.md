@@ -3,6 +3,9 @@
 ## Overview
 Welcome to DogLLaMA, a fun project which presents a language model that translates user queries into the language of dogs. Whether you want to know a dog's perspective on jokes, treats, or the weather, DogLLaMA has got you covered! This repository also includes scripts to create the dataset, fine-tune the model, and push the dataset to the Hugging Face Model Hub.
 
+Model: https://huggingface.co/pathikg/DogLLaMA_7b 
+Dataset: https://huggingface.co/datasets/pathikg/DogLLAMA-small
+
 ## Project Structure
 - data: Directory containing the DogLLaMA dataset in JSON format and few prompts.
 - scripts: Collection of utility scripts for dataset creation, Hugging Face compatibility, and model deployment.
